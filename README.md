@@ -9,4 +9,5 @@
 1. &zwnj;**运用的算法模型**&zwnj;
    - RFM模型
    - K-means聚类
+
 ![} TXF2ZXEK8LE_4_UQUWW2L](https://github.com/user-attachments/assets/955b0a64-8b01-408e-8459-98af3640ca41)

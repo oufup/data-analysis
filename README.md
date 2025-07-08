@@ -23,7 +23,8 @@
    - 逻辑回归/Logistic Regression
 ![Y_G(PP~ 9YE~}MJ%2O}6FW6](https://github.com/user-attachments/assets/cc3dfc43-c4a9-4b5a-9933-76bb95a01bc2)
 
-
    - KNN
-![`1 0RMF2 (LYHF _ (MFMAW](https://github.com/user-attachments/assets/e531eb05-41fc-4bfa-bce7-9d69cb790cf6)
+![IT_ G8$KSPO(%)}3M L{TLS](https://github.com/user-attachments/assets/71802a00-77d1-4e69-9ba0-c275abd07b24)
+
+
 

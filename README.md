@@ -34,5 +34,12 @@
 ![lj](https://github.com/user-attachments/assets/0649514a-2941-49a5-8676-9f6354431596)
 
 ## 2.powerBI
-### 2.1.亚马逊卖家数据分析
+### 2.1.Customer Segmentation and marketing campaigns
+<img width="1008" alt="image" src="https://github.com/user-attachments/assets/e0ce6731-0054-47ea-b99a-907ac00ed50b" />
+
+<img width="991" alt="image" src="https://github.com/user-attachments/assets/ce6904ba-0375-46d4-b00b-20ba8a032529" />
+
+<img width="1002" alt="image" src="https://github.com/user-attachments/assets/78f549f8-8990-47f5-93c4-17d58daa4ede" />
+
+
 

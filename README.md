@@ -25,7 +25,13 @@
 
    - KNN
 ![(DTG)W%OS`IEY4JIAQT)LNK](https://github.com/user-attachments/assets/f4d14017-fd5d-4209-bc81-0788cfc9f06f)
-
+### 3.垃圾邮件过滤
+ 使用spaCy 自然语言处理库对文本进行处理过滤垃圾邮件，为垃圾邮件检测创建机器学习模型，比较逻辑回归，XGBoost，svm支持向量机三种模型，找出性能更优的模型
+1. &zwnj;**运用的算法模型**&zwnj;
+   - 逻辑回归/Logistic Regression
+   - XGBoost
+   - 支持向量机/Support Vector Machine - SVM
+![lj](https://github.com/user-attachments/assets/0649514a-2941-49a5-8676-9f6354431596)
 
 
 

@@ -33,6 +33,13 @@
    - 支持向量机/Support Vector Machine - SVM
 ![lj](https://github.com/user-attachments/assets/0649514a-2941-49a5-8676-9f6354431596)
 
+### 1.5.疾病预测
+建立决策树和随机森林模型，利用准确率和F1-score以及K折交叉验证评估模型，选择性能更好的模型来预测疾病
+1. &zwnj;**运用的算法模型**&zwnj;
+   - 决策树/Decision Tree¶
+   - 随机森林/Random Forest
+<img width="1452" height="1017" alt="屏幕截图 2025-07-11 000344" src="https://github.com/user-attachments/assets/1e5479a2-8448-402b-add0-8ea6a0ee5469" />
+
 ## 2.powerBI
 ### 2.1.商品销售数据分析
 <img width="1008" alt="image" src="https://github.com/user-attachments/assets/e0ce6731-0054-47ea-b99a-907ac00ed50b" />

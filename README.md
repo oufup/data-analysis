@@ -49,5 +49,9 @@
 
 <img width="1002" alt="image" src="https://github.com/user-attachments/assets/78f549f8-8990-47f5-93c4-17d58daa4ede" />
 
+### 2.2.员工流失分析
+<img width="2526" height="1495" alt="屏幕截图 2025-07-14 110228" src="https://github.com/user-attachments/assets/f5dc4aeb-5252-4fa8-bf48-3940d0891e41" />
 
-
+## 3.excel
+### 3.1.商品销售数据
+<img width="2506" height="1099" alt="屏幕截图 2025-07-14 105216" src="https://github.com/user-attachments/assets/288c2e98-fc47-46c2-a8d1-4c1b93b355aa" />
